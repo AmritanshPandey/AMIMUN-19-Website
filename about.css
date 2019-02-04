@@ -1,0 +1,417 @@
+/* About AMIMUN start (about-home.html) */
+
+.about-amimun-header-bg{
+	padding:0px;
+	background-position:center;
+	background-image:url(images/about-amimun-bg-1.jpg);
+	background-repeat:repeat;
+	background-attachment:fixed;
+}	
+
+.about-amimun-header-title{
+	padding:80px;
+}
+
+.about-amimun-header-title h1{
+	font-family: ostrich-sans;
+	color:#000000;
+	font-size:48px;
+	text-shadow: 1px 1px 1px #000;
+}   
+
+
+.about-amimun-header-title h2{
+	font-family: ostrich-sans;
+	color:#ffffff;
+	font-size:30px;
+	text-shadow: 1px 1px 1px #000;
+}   
+
+.page-nav a{
+	font-family: ostrich-sans;
+	color:#ffffff;
+	font-size:16px;
+	padding:5px;
+	text-decoration:none;
+	text-shadow: 1px 1px 1px #000;
+}
+
+/* About AMITY start (about-amity.html) */
+
+.about-amity-header-bg{
+	padding:0px;
+	background-position:center;
+	background-image:url(images/about-amity-bg.jpg);
+	background-repeat:repeat;
+	background-attachment:fixed;
+}	
+
+.about-amity-header-title{
+	padding:80px;
+}
+
+.about-amity-header-title h1{
+	font-family: ostrich-sans;
+	color:#000000;
+	font-size:48px;
+	text-shadow: 1px 1px 1px #000;
+}   
+
+
+.about-amity-header-title h2{
+	font-family: ostrich-sans;
+	color:#ffffff;
+	font-size:30px;
+	text-shadow: 1px 1px 1px #000;
+} 
+
+
+
+/* Presidents Start */
+.meet-the-team-president{
+	display:inline-block;
+	margin:0;
+	padding:0;
+	max-width:1280px;
+}
+
+.president-01{
+	background-color:#f6f6f5;
+	margin:20px;
+	padding:10px;
+}
+
+.president-01 img{
+	float:left;
+	width:22%;
+	height:auto;
+	padding:0px;
+	margin-right:20px;
+}
+
+.president-01 h1{
+	font-family: ostrich-sans;
+	font-size:24px;
+	text-align:left;
+
+	
+}
+
+.president-01 small{
+	font-family: ostrich-sans;
+	font-size:18px;
+	text-align:left;
+	
+}
+
+.president-01 p{
+	font-family: ostrich-sans;
+	font-size:16px;
+	text-align:justify;
+	
+}
+
+.president-02{
+	background-color:#f6f6f5;
+	margin:20px;
+	padding:10px;
+	
+}
+
+.president-02 img{
+	float:right;
+	width:23%;
+	height:auto;
+	padding-left:20px;
+}
+
+.president-02 h1{
+	font-family: ostrich-sans;
+	font-size:24px;
+	text-align:right;
+	
+}
+
+.president-02 small{
+	font-family: ostrich-sans;
+	font-size:18px;
+	text-align:left;
+	
+}
+
+.president-02 p{
+	font-family: ostrich-sans;
+	font-size:16px;
+	text-align:justify;
+	
+}
+/* Presidents closed */
+
+.coming-soon{
+	background-color:#000000;
+	padding:60px;
+}
+
+.coming-soon img{
+	max-width:100%;
+	height:auto;
+}
+
+/* About AMIMUN Committees */
+.about-com{
+max-width:768px;
+}
+
+.com-agenda{
+	font-family: ostrich-sans;
+	font-size:30px;
+	text-decoration:bold;
+	background-color:#000000;
+	padding:20px;
+	color:#ffffff;
+}
+
+.com-agenda p{
+max-width:1024px;
+}
+
+.com-chair{
+	display:inline-block;
+	max-width:1280px;
+}
+
+.com-chair-01{
+	float:left;
+	padding:30px;
+	width:33%;
+}
+
+.com-chair-01 p{
+font-family: ostrich-sans;
+font-size:26px;
+}
+
+
+.com-chair-02{
+	float:left;
+	padding:30px;
+	width:48%;
+}
+
+.com-chair-02 p{
+font-family: ostrich-sans;
+font-size:26px;
+}
+
+.com-chair-03{
+	padding:30px;
+	width:100%;
+}
+
+.com-chair-03 p{
+font-family: ostrich-sans;
+font-size:26px;
+}
+
+.bg-guide{
+	padding:50px;
+}
+
+.bg-guide h2{
+font-family: ostrich-sans;
+font-size:36px;
+}
+
+.bg-guide p{
+font-family: ostrich-sans;
+font-size:24px;
+}
+
+.bg-guide a{
+font-family: ostrich-sans;
+font-size:24px;
+color:#7d3b00;
+}
+
+@media all and (max-width : 768px) {
+
+/* About AMIMUN start (about-home.html) */
+
+.about-amimun-header-bg{
+	padding:0px;
+	background-position:center;
+	background-image:url(images/about-amimun-bg.jpg);
+	background-repeat:repeat;
+	background-attachment:fixed;
+}	
+
+.about-amimun-header-title h1{
+	font-family: ostrich-sans;
+	color:#000000;
+	font-size:30px;
+}   
+
+
+.about-amimun-header-title h2{
+	font-family: ostrich-sans;
+	color:#ffffff;
+	font-size:22px;
+}   
+
+.page-nav a{
+	font-family: ostrich-sans;
+	color:#ffffff;
+	font-size:16px;
+	padding:5px;
+	text-decoration:none;
+}
+
+/* About Amity start (about-amity.html) */
+
+.about-amity-header-bg{
+	padding:0px;
+	background-position:center;
+	background-image:url(images/about-amity-bg.jpg);
+	background-repeat:repeat;
+	background-attachment:fixed;
+}	
+
+.about-amity-header-title h1{
+	font-family: ostrich-sans;
+	color:#000000;
+	font-size:30px;
+}   
+
+
+.about-amity-header-title h2{
+	font-family: ostrich-sans;
+	color:#ffffff;
+	font-size:22px;
+} 
+
+
+/* Presidents Start */
+.president-01{
+	background-color:#f6f6f5;
+	margin:0px;
+	padding:10px;
+	border:0px solid #333333;
+	border-top:5px solid #333333;
+}
+
+.president-01 img{
+	float:none;
+	width:60%;
+	height:auto;
+	padding:0px;
+	margin-right:20px;
+}
+
+.president-01 h1{
+	font-family: ostrich-sans;
+	font-size:24px;
+	text-align:center;
+
+	
+}
+
+.president-01 small{
+	font-family: ostrich-sans;
+	font-size:18px;
+	text-align:left;
+	
+}
+
+.president-01 p{
+	font-family: ostrich-sans;
+	font-size:16px;
+	text-align:justify;
+	
+}
+
+.president-02{
+	background-color:#f6f6f5;
+	margin:0px;
+	padding:10px;
+	border:0px solid #333333;
+	border-top:5px solid #333333;
+}
+
+.president-02 img{
+	float:none;
+	width:60%;
+	height:auto;
+	padding-left:20px;
+	
+}
+
+.president-02 h1{
+	font-family: ostrich-sans;
+	font-size:24px;
+	text-align:center;
+	
+}
+
+.president-02 small{
+	font-family: ostrich-sans;
+	font-size:18px;
+	text-align:left;
+	
+}
+
+.president-02 p{
+	font-family: ostrich-sans;
+	font-size:16px;
+	text-align:justify;
+	
+}
+/* Presidents closed */
+
+
+/* About AMIMUN Committees */
+.about-com{
+max-width:none;
+}
+
+.com-agenda{
+	font-family: ostrich-sans;
+	font-size:22px;
+	text-decoration:bold;
+	background-color:#000000;
+	padding:10px;
+	color:#ffffff;
+}
+
+.com-agenda p{
+max-width:96%;
+}
+
+.com-chair{
+	display:inline-block;
+	max-width:1280px;
+}
+
+.com-chair-01{
+	float:none;
+	padding:10px;
+	width:100%;
+}
+
+.com-chair-01 p{
+font-family: ostrich-sans;
+font-size:26px;
+}
+
+
+.com-chair-02{
+	float:left;
+	padding:30px;
+	width:100%;
+}
+
+.com-chair-02 p{
+font-family: ostrich-sans;
+font-size:26px;
+}
+  
+}
